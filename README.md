@@ -1,8 +1,8 @@
 # Tarea 05
 
-Nombre: [Juan Pablo Marin
+Nombre: [Juan Pablo Marin]
 
-]
+
 git add README.md
 git commit -m "Inicialización del README.md"
 git add README.md
